@@ -1,7 +1,7 @@
 import { test, expect, type Page } from '@playwright/test';
-const username = '****';
-const password = '****';
-const url = 'http://mpro3online.com/mpro3/';
+const username = 'test';
+const password = 'test';
+const url = 'https://mpro3-online-host.com/mpro3/';
 
 
 test.describe('New Todo', () => {
